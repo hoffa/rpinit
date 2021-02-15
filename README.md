@@ -2,6 +2,9 @@
 
 Easily set up a headless Raspberry Pi.
 
+- Automatically connects to the provided Wi-Fi network.
+- Accessible through SSH with user `pi` and password `raspberry`.
+
 ## Usage
 
 ```
